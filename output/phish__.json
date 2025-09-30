@@ -1,0 +1,5 @@
+{
+    "Email Subject": "Urgent: Account Verification Required - ",
+    "Email Body": "\n        Dear ,\n\n        We detected unusual activity on your  account. Please verify your credentials immediately to avoid suspension.\n\n        [Verify Now] - Link to fake login page\n\n        Regards,\n         Security Team\n        ",
+    "Fake Login URL": "https://-secure-login.com"
+}

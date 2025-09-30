@@ -1,0 +1,14 @@
+{
+    "Company Overview": "AcmeTech is a mid-sized tech firm specializing in cloud services.",
+    "Tech Stack": [
+        "Python",
+        "AWS",
+        "Docker",
+        "React"
+    ],
+    "Public Exposure": [
+        "Careers page with open roles",
+        "GitHub repos under org name",
+        "Subdomain: api.acmetech.com"
+    ]
+}
